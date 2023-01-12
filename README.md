@@ -2,7 +2,7 @@
 # Instalar node exporter utilizando ansible playbook
 
 
-<img alt="Ansible Collection" src="https://img.shields.io/badge/Ansible-Ansible%20Playbook-blue"> <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-Node%20Exporter-orange">
+<img alt="Ansible Collection" src="https://img.shields.io/badge/Ansible-Ansible%20Playbook-blue"> <img alt="Prometheus" src="https://img.shields.io/badge/Ansible-Prometheus-orange">
 
 Playbook para realizar a instalação do node exporter em servidores linux utilizando o systemD
 
